@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cbpadc.iml" filepath="$PROJECT_DIR$/.idea/modules/cbpadc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cbpadc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cbpadc_main.iml" group="cbpadc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cbpadc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cbpadc_test.iml" group="cbpadc" />
+    </modules>
+  </component>
+</project>
